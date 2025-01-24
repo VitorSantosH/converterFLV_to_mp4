@@ -16,7 +16,7 @@ obj/
 
 # Arquivos de log
 *.log
-
+*.exe
 
 # Cobertura de código e resultados de teste
 .coverage/
